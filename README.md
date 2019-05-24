@@ -1,7 +1,7 @@
 # XV-11 and Botvac LIDAR Scanner driver for ROS
 
 This is a clone of the standrd one.   New features are planned
-* Documwentation and a how-to
+* Documentation and a how-to
 * Actions to allow the scanner to be powered up and down
 * Control over the speed
 
